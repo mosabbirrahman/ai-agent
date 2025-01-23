@@ -2308,7 +2308,7 @@ Header CSS 01 Start
   gap: 6px;
 }
 .header-action-login:hover {
-  color: var(--clr-theme-primary);
+  color: #F15A29;
 }
 .header-action-btn {
   color: #fff;
@@ -3244,7 +3244,7 @@ Header CSS 01 Start
 }
 .banner-content-subtitle {
   border-radius: 50px;
-  background: rgba(236, 93, 37, 0.767);
+  background: #F15A29;
   box-shadow: 0px 2px 4px 0px rgba(27, 42, 82, 0.2);
   display: inline-block;
   color:white ;
@@ -4965,7 +4965,7 @@ Header CSS 01 Start
   }
 }
 .feature-item:hover {
-  background-color: var(--clr-theme-primary);
+  background-color: #F15A29;
   border-color: transparent;
 }
 .feature-item:hover .feature-item-title {
@@ -5727,7 +5727,7 @@ Header CSS 01 Start
   top: -5px;
   right: 25px;
   content: "";
-  background: linear-gradient(180deg, #1FDB00 0%, #099B18 93.72%);
+  background: linear-gradient(180deg, #F15A29 0%, #F15A29 93.72%);
   color: #FFF;
   text-align: center;
   font-size: 12px;
@@ -5744,7 +5744,7 @@ Header CSS 01 Start
   left: 6px;
   bottom: -6px;
   content: "";
-  background-color: #099B18;
+  background-color: #F15A29;
   clip-path: polygon(0 0, 0% 100%, 100% 0);
   width: 9px;
   height: 6px;
@@ -5885,7 +5885,7 @@ Header CSS 01 Start
   top: -30px;
   right: -45px;
   content: "";
-  background: linear-gradient(180deg, #1FDB00 0%, #099B18 93.72%);
+  background: linear-gradient(180deg, #F15A29 0%,#F15A29  93.72%);
   color: #FFF;
   text-align: center;
   font-size: 13px;
@@ -5906,7 +5906,7 @@ Header CSS 01 Start
   left: 20px;
   bottom: -6px;
   content: "";
-  background-color: #099B18;
+  background-color: #F15A29;
   clip-path: polygon(50% 100%, 0 0, 100% 0);
   width: 9px;
   height: 6px;
@@ -6017,10 +6017,10 @@ Header CSS 01 Start
   display: none;
 }
 .h2_price-area .price-item-list li svg {
-  color: var(--clr-theme-primary);
+  color: #F15A29;
 }
 .h2_price-area .price-item-list li.not-abatable svg {
-  color: #6A738B;
+  color:#F15A29 ;
 }
 
 .h3_price-area {
@@ -6044,7 +6044,7 @@ Header CSS 01 Start
   box-shadow: 0px 20px 60px 0px rgba(27, 42, 82, 0.07);
 }
 .h3_price-area .price-item.active .price-item-btn {
-  background-color: var(--clr-theme-primary);
+  background-color: F15A29;
   color: #fff;
 }
 .h3_price-area .price-item-list li {
@@ -6057,7 +6057,7 @@ Header CSS 01 Start
   display: none;
 }
 .h3_price-area .price-item-list li svg {
-  color: var(--clr-theme-primary);
+  color:#F15A29 ;
 }
 .h3_price-area .price-item-list li.not-abatable svg {
   color: #6A738B;
@@ -6087,7 +6087,7 @@ Header CSS 01 Start
 }
 .h3_price-tab ul.nav .nav-item .nav-link.active {
   border-radius: 50px;
-  background: #7D25EC;
+  background: #F15A29;
   color: #fff;
 }
 
@@ -9243,12 +9243,12 @@ Header CSS 01 Start
 .header-menu-bar-icon {
   width: 40px;
   height: 40px;
-  border: 1px solid var(--clr-theme-primary);
+  border: 1px solid ;
   display: flex;
   align-items: center;
   justify-content: center;
   border-radius: 50%;
-  color: var(--clr-theme-primary);
+  color: #F15A29;
   cursor: pointer;
   -webkit-transition: all 0.3s linear 0s;
   -moz-transition: all 0.3s linear 0s;
@@ -9258,7 +9258,7 @@ Header CSS 01 Start
   font-size: 18px;
 }
 .header-menu-bar-icon:hover {
-  background-color: var(--clr-theme-primary);
+  background-color:#F15A29 ;
   color: #fff;
   border-color: transparent;
 }
