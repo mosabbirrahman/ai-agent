@@ -2317,13 +2317,13 @@ Header CSS 01 Start
   height: 40px;
   line-height: 40px;
   border-radius: 50px;
-  background: linear-gradient(180deg, #9B1EFE 0%, #6917D0 100%);
+  background: linear-gradient(180deg, #F15A29 0%, #F15A29 100%);
   display: block;
   padding: 0 30px;
 }
 .header-action-btn:hover {
   color: #fff;
-  background: linear-gradient(180deg, #7D25EC 0%, #9425EC 100%);
+  background: linear-gradient(180deg, #F15A29 0%, #F15A29 100%);
 }
 
 /* ///////////////////////////////////////////////////////////
@@ -3154,7 +3154,7 @@ Header CSS 01 Start
 /////////////////////////////////////////////////////////// */
 .theme-btn {
   border-radius: 50px;
-  background: linear-gradient(180deg, #9425EC 0%, #7D25EC 100%);
+  background: linear-gradient(180deg, #F15A29 0%, #F15A29 100%);
   color: #FFF;
   font-size: 14px;
   font-weight: 600;
@@ -3169,13 +3169,13 @@ Header CSS 01 Start
   transition: all 0.3s linear 0s;
 }
 .theme-btn:hover {
-  background: linear-gradient(180deg, #7D25EC 0%, #9425EC 100%);
+  background: linear-gradient(180deg,#F15A29 0%, #F15A29 100%);
   color: #fff;
 }
 
 .theme-btn-2 {
   border-radius: 8px;
-  background: linear-gradient(180deg, #9425EC 0%, #7D25EC 100%);
+  background: linear-gradient(180deg, #F15A29 0%,#F15A29 100%);
   color: #FFF;
   font-size: 14px;
   font-weight: 600;
@@ -3190,7 +3190,7 @@ Header CSS 01 Start
   transition: all 0.3s linear 0s;
 }
 .theme-btn-2:hover {
-  background: linear-gradient(180deg, #7D25EC 0%, #9425EC 100%);
+  background: linear-gradient(180deg, #F15A29 0%, #F15A29 100%);
   color: #fff;
 }
 
@@ -3244,10 +3244,10 @@ Header CSS 01 Start
 }
 .banner-content-subtitle {
   border-radius: 50px;
-  background: rgba(125, 37, 236, 0.1);
+  background: rgba(236, 93, 37, 0.767);
   box-shadow: 0px 2px 4px 0px rgba(27, 42, 82, 0.2);
   display: inline-block;
-  color: #7D25EC;
+  color:white ;
   text-align: center;
   font-size: 14px;
   font-weight: 600;
@@ -4569,10 +4569,10 @@ Header CSS 01 Start
 /////////////////////////////////////////////////////////// */
 .section-subtitle {
   border-radius: 50px;
-  background: rgba(125, 37, 236, 0.06);
+  background:#F15A29;
   box-shadow: 0px 2px 4px 0px rgba(27, 42, 82, 0.2);
   display: inline-block;
-  color: var(--clr-theme-primary);
+  color: white;
   font-size: 14px;
   font-weight: 600;
   text-transform: uppercase;
@@ -4915,7 +4915,7 @@ Header CSS 01 Start
   }
 }
 .feature-item-title {
-  color: #1B2A52;
+  color:#F15A29 ;
   font-size: 20px;
   font-style: normal;
   font-weight: 700;
@@ -5680,7 +5680,7 @@ Header CSS 01 Start
   text-transform: uppercase;
   display: inline-block;
   border-radius: 0px 0px 8px 8px;
-  background: #7D25EC;
+  background:#F15A29 ;
   padding: 0 12px;
   height: 24px;
   line-height: 24px;
@@ -5758,14 +5758,14 @@ Header CSS 01 Start
   margin-bottom: 15px;
 }
 .price-item-offer {
-  color: #7D25EC;
+  color: white;
   text-align: center;
   font-size: 13px;
   font-weight: 500;
   line-height: 22px;
   letter-spacing: -0.39px;
   display: inline-block;
-  background: rgba(125, 37, 236, 0.1);
+  background:#F15A29;  ;
   height: 22px;
   padding: 0 20px;
   margin-bottom: 35px;
@@ -5821,7 +5821,7 @@ Header CSS 01 Start
   margin-top: 2px;
 }
 .price-item-btn:hover {
-  background-color: var(--clr-theme-primary);
+  background-color: #F15A29;
   color: #fff;
 }
 .price-item-list {
@@ -5863,7 +5863,8 @@ Header CSS 01 Start
   box-shadow: 0px 10px 30px 0px rgba(27, 42, 82, 0.07);
 }
 .price-item.active .price-item-btn {
-  background-color: var(--clr-theme-primary);
+  background-color:#F15A29;
+  ;
   color: #fff;
 }
 .price-item-1 p {
@@ -5954,7 +5955,7 @@ Header CSS 01 Start
   width: 70px;
   height: 34px;
   border-radius: 100px;
-  background-color: var(--clr-theme-primary);
+  background-color:#F15A29 ;
   overflow: hidden;
   box-shadow: inset 0 0 2px 1px rgba(0, 0, 0, 0.05);
 }
@@ -6003,7 +6004,7 @@ Header CSS 01 Start
   box-shadow: 0px 16px 60px 0px rgba(26, 40, 75, 0.1);
 }
 .h2_price-area .price-item.active .price-item-btn {
-  background-color: var(--clr-theme-primary);
+  background-color:#F15A29 ;
   color: #fff;
 }
 .h2_price-area .price-item-list li {
