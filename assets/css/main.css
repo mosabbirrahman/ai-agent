@@ -4945,7 +4945,7 @@ Header CSS 01 Start
   right: -84px;
   top: 50%;
   transform: translateY(-50%);
-  content: url("../images/feature/shape-4.png");
+  /* content: url("../images/feature/shape-4.png"); */
 }
 @media (max-width: 1199px) {
   .feature-item-1::after {
@@ -4957,7 +4957,7 @@ Header CSS 01 Start
   right: -84px;
   top: 50%;
   transform: translateY(-50%);
-  content: url("../images/feature/shape-5.png");
+  /* content: url("../images/feature/shape-5.png"); */
 }
 @media (max-width: 1199px) {
   .feature-item-2::after {
@@ -5858,7 +5858,7 @@ Header CSS 01 Start
 }
 .price-item.active {
   border-radius: 14px;
-  border: 1.5px solid #7D25EC;
+  border: 1.5px solid #F15A29;
   background: #FFF;
   box-shadow: 0px 10px 30px 0px rgba(27, 42, 82, 0.07);
 }
