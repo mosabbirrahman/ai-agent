@@ -3074,7 +3074,7 @@ Header CSS 01 Start
 .h5_header-nav-menu ul li:hover > a {
   color: var(--clr-theme-primary);
   border-radius: 4px;
-  background: rgba(125, 37, 236, 0.1);
+  background: #F15A29;
   box-shadow: 0px 1px 2px 0px rgba(27, 42, 82, 0.2);
 }
 .h5_header-action {
@@ -3094,7 +3094,7 @@ Header CSS 01 Start
   padding: 0 30px;
   gap: 8px;
   border-radius: 8px;
-  background: #7D25EC;
+  background: #F15A29;
   box-shadow: 0px 2px 10px 0px rgba(27, 42, 82, 0.5);
 }
 @media (max-width: 1399px) {
@@ -3103,7 +3103,7 @@ Header CSS 01 Start
   }
 }
 .h5_header-action-btn:hover {
-  background-color: var(--clr-color-violet);
+  background-color: #F15A29;
   color: #fff;
 }
 .h5_header-action-inner {
@@ -4727,7 +4727,7 @@ Header CSS 01 Start
 }
 
 .inner_section-subtitle {
-  color: #7D25EC;
+  color: #F15A29;
   font-size: 14px;
   font-weight: 600;
   text-transform: uppercase;
@@ -9205,7 +9205,7 @@ Header CSS 01 Start
 
 .mean-container .mean-nav ul li:hover > a {
   background: transparent;
-  color: var(--clr-theme-primary);
+  color: #F15A29;
 }
 
 .pl-sidebar-close.side-info-close {
@@ -9336,7 +9336,7 @@ Header CSS 01 Start
   }
 }
 .breadcrumb-list a:hover {
-  color: var(--clr-theme-primary);
+  color: #F15A29;
 }
 .breadcrumb-list a::after {
   position: absolute;
@@ -9350,7 +9350,7 @@ Header CSS 01 Start
   border-radius: 50%;
 }
 .breadcrumb-list span {
-  color: #7D25EC;
+  color: #F15A29;
   font-size: 17px;
   font-weight: 500;
   line-height: 25px;
@@ -9909,7 +9909,7 @@ Header CSS 01 Start
   }
 }
 .login-content-subtitle {
-  color: #7D25EC;
+  color: #F15A29;
   text-align: center;
   font-size: 14px;
   font-weight: 500;
@@ -9939,7 +9939,7 @@ Header CSS 01 Start
   margin-bottom: 0;
 }
 .login-content-link p a {
-  color: #7D25EC;
+  color: #F15A29;
 }
 .login-content-account {
   display: flex;
@@ -10001,7 +10001,7 @@ Header CSS 01 Start
   width: 100%;
   border: none;
   border-radius: 10px;
-  background: #7D25EC;
+  background: #F15A29;
   height: 46px;
   line-height: 46px;
   color: #fff;
@@ -10045,7 +10045,7 @@ Header CSS 01 Start
   }
 }
 .login-condition a {
-  color: #7D25EC;
+  color: #F15A29;
   font-size: 14px;
   font-weight: 500;
   line-height: 24px;
@@ -10141,7 +10141,7 @@ Header CSS 01 Start
   justify-content: center;
   border-radius: 50%;
   font-size: 30px;
-  color: var(--clr-theme-primary);
+  color: #F15A29;
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 20px;
@@ -10230,7 +10230,7 @@ Header CSS 01 Start
   width: 100%;
   border: none;
   border-radius: 8px;
-  background: #7D25EC;
+  background: #F15A29;
   box-shadow: 0px 2px 10px 0px rgba(27, 42, 82, 0.5);
   height: 46px;
   display: flex;
@@ -10399,7 +10399,7 @@ Header CSS 01 Start
 }
 .checkout-top-item span {
   border-radius: 8px;
-  background: #7D25EC;
+  background: #F15A29;
   height: 32px;
   width: 32px;
   display: flex;
@@ -10418,8 +10418,8 @@ Header CSS 01 Start
   margin-bottom: 0;
 }
 .checkout-top-item.last-item span {
-  background: #F2F8FD;
-  color: #6A738B;
+  background:#F15A29;
+  color: wheat;
 }
 .checkout-top-item.last-item p {
   color: #6A738B;
@@ -10525,13 +10525,13 @@ Header CSS 01 Start
   margin-bottom: 35px;
 }
 .checkout-payment-text p a {
-  color: #7D25EC;
+  color: #F15A29;
   text-decoration: underline;
   display: inline-block;
 }
 .checkout-payment-btn {
   border-radius: 10px;
-  background: #7D25EC;
+  background: #F15A29;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -11576,7 +11576,7 @@ Header CSS 01 Start
   top: 50%;
   transform: translateY(-50%);
   border-radius: 8px;
-  background: linear-gradient(180deg, #9425EC 0%, #7D25EC 100%);
+  background: linear-gradient(180deg, #F15A29 0%, #F15A29 100%);
   height: 44px;
   border: none;
   padding: 0 32px;
