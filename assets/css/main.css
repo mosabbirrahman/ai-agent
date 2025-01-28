@@ -3061,7 +3061,7 @@ Header CSS 01 Start
   top: 0;
 }
 .h5_header-nav-menu ul li .submenu li:hover > a {
-  background-color: #1B2A52;
+  background-color: #F15A29;
   color: #fff;
 }
 .h5_header-nav-menu ul li .submenu li:not(:last-child) {
@@ -3072,7 +3072,7 @@ Header CSS 01 Start
   visibility: visible;
 }
 .h5_header-nav-menu ul li:hover > a {
-  color: var(--clr-theme-primary);
+  color: white;
   border-radius: 4px;
   background: #F15A29;
   box-shadow: 0px 1px 2px 0px rgba(27, 42, 82, 0.2);
